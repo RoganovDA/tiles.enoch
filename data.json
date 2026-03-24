@@ -16,5 +16,546 @@
   "attribution": "Generated from DayZ game files",
   "preview": "preview.webp",
   "fullSize": "",
-  "locations": []
+  "locations": [
+    {
+      "name": "Bielawa",
+      "cfgName": "Bielawa",
+      "position": [
+        1573.45,
+        9677.4502
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Lukow",
+      "cfgName": "Lukow",
+      "position": [
+        3529.6499,
+        11966.53
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Gliniska",
+      "cfgName": "Gliniska",
+      "position": [
+        4992.6201,
+        9921.7402
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Brena",
+      "cfgName": "Brena",
+      "position": [
+        6617.6299,
+        11211.03
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Tarnow",
+      "cfgName": "Tarnow",
+      "position": [
+        9328.3096,
+        10904.8
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Sitnik",
+      "cfgName": "Sitnik",
+      "position": [
+        11502.31,
+        9573.0098
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Borek",
+      "cfgName": "Borek",
+      "position": [
+        9807.4902,
+        8495.0703
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Zapadlisko",
+      "cfgName": "Zapadlisko",
+      "position": [
+        8058.25,
+        8711.7598
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Nidek",
+      "cfgName": "Nidek",
+      "position": [
+        6128.8901,
+        8013.3398
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Topolin",
+      "cfgName": "Topolin",
+      "position": [
+        1858.8199,
+        7330.8701
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Adamów",
+      "cfgName": "Adamow",
+      "position": [
+        3076.3101,
+        6851.2598
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Muratyn",
+      "cfgName": "Muratyn",
+      "position": [
+        4567.5,
+        6384.3999
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Radunin",
+      "cfgName": "Radunin",
+      "position": [
+        7298.3799,
+        6491.8999
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Lembork",
+      "cfgName": "Lembork",
+      "position": [
+        8680.4697,
+        6635.7002
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Gieraltów",
+      "cfgName": "Gieraltow",
+      "position": [
+        11240.02,
+        4380.3701
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Nadbór",
+      "cfgName": "Nadbor",
+      "position": [
+        6109.5,
+        3983.1699
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Zalesie",
+      "cfgName": "Zalesie",
+      "position": [
+        896.08002,
+        5536.1201
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Huta",
+      "cfgName": "Huta",
+      "position": [
+        5141.4702,
+        5472.7798
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Radacz",
+      "cfgName": "Radacz",
+      "position": [
+        4007.78,
+        7939.9102
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Olszanka",
+      "cfgName": "Olszanka",
+      "position": [
+        4819.0298,
+        7674.1299
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Lipina",
+      "cfgName": "Lipina",
+      "position": [
+        5941.8701,
+        6820.0098
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Kolembrody",
+      "cfgName": "Kolembrody",
+      "position": [
+        8416.9502,
+        11981.93
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Karlin",
+      "cfgName": "Karlin",
+      "position": [
+        10072.74,
+        6956.96
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Sobotka",
+      "cfgName": "Sobotka",
+      "position": [
+        6256.9399,
+        10252.92
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Roztoka",
+      "cfgName": "Roztoka",
+      "position": [
+        7695.2798,
+        5317.4702
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Polana",
+      "cfgName": "Polana",
+      "position": [
+        3279.6101,
+        2132.1499
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Dolnik",
+      "cfgName": "Dolnik",
+      "position": [
+        11312.39,
+        655.72998
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Sowa",
+      "cfgName": "Sowa",
+      "position": [
+        11662.77,
+        12064.33
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Krsnik",
+      "cfgName": "Krsnik",
+      "position": [
+        7874.9302,
+        10081.25
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Dambog",
+      "cfgName": "Dambog",
+      "position": [
+        577.26001,
+        1124.6899
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Skala",
+      "cfgName": "Skala",
+      "position": [
+        2999.25,
+        1956.0699
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Swarog",
+      "cfgName": "Swarog",
+      "position": [
+        4854.98,
+        2224.27
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Rodzanica",
+      "cfgName": "Rodzanica",
+      "position": [
+        8881.54,
+        2041.96
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Bagno",
+      "cfgName": "Bagno",
+      "position": [
+        11822.81,
+        11134.51
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Wrzeszcz",
+      "cfgName": "Wrzeszcz",
+      "position": [
+        9043.25,
+        4438.48
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Drewniki",
+      "cfgName": "drewniki",
+      "position": [
+        5834.7202,
+        5092.8901
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Kulno",
+      "cfgName": "kulno",
+      "position": [
+        11150.02,
+        2391.5
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Hrud",
+      "cfgName": "Hrud",
+      "position": [
+        6452.5,
+        9371.1299
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Jantar",
+      "cfgName": "Jantar",
+      "position": [
+        3532.3501,
+        8955.1396
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Grabinskie",
+      "cfgName": "Grabinskie",
+      "position": [
+        11249.24,
+        10993.21
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Wolisko",
+      "cfgName": "Wolisko",
+      "position": [
+        12368.47,
+        10883.96
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Sitnickie",
+      "cfgName": "Sitnickie",
+      "position": [
+        11411.91,
+        10439.6
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Grabin",
+      "cfgName": "Grabin",
+      "position": [
+        10666.22,
+        11025.57
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "$STR_CfgWorlds_Enoch_BranzowCastle",
+      "cfgName": "Branzow_castle",
+      "position": [
+        1072.54,
+        11418.78
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Piorun",
+      "cfgName": "Piorun",
+      "position": [
+        645.60999,
+        12158.6
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Jezurów",
+      "cfgName": "Jezurow",
+      "position": [
+        2097.76,
+        2355.8701
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Tymbark",
+      "cfgName": "Tymbark",
+      "position": [
+        2902.45,
+        1221.25
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Hedryków",
+      "cfgName": "Hedrykow",
+      "position": [
+        4512.98,
+        4795.5098
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Widok",
+      "cfgName": "Widok",
+      "position": [
+        10238.53,
+        2143.5801
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Kopa",
+      "cfgName": "Kopa",
+      "position": [
+        5518.8101,
+        8767.6104
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Kamieniołom Maksymilian",
+      "cfgName": "Quarry_Max",
+      "position": [
+        6512.25,
+        4847.8599
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Piekło",
+      "cfgName": "Peklo",
+      "position": [
+        3323.8601,
+        3717.3
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Sarnówek",
+      "cfgName": "Sarnowek",
+      "position": [
+        3308.0601,
+        4970.25
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Konopki",
+      "cfgName": "Konopki",
+      "position": [
+        11489.57,
+        2897.9299
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Pionier",
+      "cfgName": "Pionier",
+      "position": [
+        1341.45,
+        4867.1602
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Potoki",
+      "cfgName": "Potoki",
+      "position": [
+        11633.87,
+        1947.2
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Rumianek",
+      "cfgName": "Rumianek",
+      "position": [
+        11775.6,
+        5487.0601
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Lawenda",
+      "cfgName": "Lawenda",
+      "position": [
+        813.65002,
+        8606.3398
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Tymianka",
+      "cfgName": "Tymianka",
+      "position": [
+        11351.73,
+        10062.73
+      ],
+      "type": "Village"
+    },
+    {
+      "name": "Półkrabiec",
+      "cfgName": "Pulkrabiec",
+      "position": [
+        11871.31,
+        6580.2202
+      ],
+      "type": "Village"
+    }
+  ]
 }
